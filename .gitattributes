@@ -1,0 +1,5 @@
+*.Python linguist-detectable=true
+*.matlab linguist-detectable=true  
+*.Numpy linguist-detectable=true  
+*.Pandas linguist-detectable=true  
+*.xml linguist-detectable=false    
